@@ -1,0 +1,178 @@
+body {
+  font-family: "Montserrat";
+}
+
+/*
+title */
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 3% 5% 7%;
+}
+
+/* Navigation */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-light"
+}
+
+.download-image {
+  margin: 5% 2% 5% 0;
+}
+
+.image {
+  width: 50%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* Features */
+#features {
+  background-color: #fff;
+  padding: 7% 15%;
+  position: relative;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+h3 {
+  font-family: "Montserrat-bold", sans-serif;
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.check {
+  color: #ef8172;
+  margin-bottom: 1.2rem;
+}
+
+.check:hover {
+  color: #ff4c68;
+}
+
+.bull {
+  color: #ef8172;
+  margin-bottom: 1.2rem;
+}
+
+.bull:hover {
+  color: #ff4c68;
+}
+
+.heart {
+  color: #ef8172;
+  margin-bottom: 1.2rem;
+}
+
+.heart:hover {
+  color: #ff4c68;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/* Testimonials */
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.test-image {
+  width: 15%;
+  margin: 20px;
+  border-radius: 100%;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+/* Press */
+
+#press{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+/* Pricing  */
+#pricing{
+padding:100px;
+text-align: center;
+}
+
+
+.padding-col{
+  padding: 3% 2%;
+}
+
+/* cta */
+
+#cta{
+background-color: #ff4c68;
+text-align: center;
+}
+
+.conc{
+  padding-top: 100px;
+  font-family: "Montserrat-bold", sans-serif;
+  font-size: 5rem;
+  color: #fff;
+
+}
+
+/* footer */
+
+
+#footer{
+  text-align: center;
+  background-color: #fff;
+  color: #8f8f8f;
+  font-size: 1rem;
+  margin: 100px 0;
+}
+
+.foot-icon{
+  padding: 0 20px 30px;
+}
